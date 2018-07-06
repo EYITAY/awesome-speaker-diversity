@@ -56,7 +56,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 Please [edit this file](https://github.com/jlengstorf/awesome-speaker-diversity/edit/master/README.md) to add your group with the following format:
 
 ```
-- Group Name: [site](http://example.com) · [email](mailto:contact@example.com)
+- Techy Girls Foundation: [site](http://techygirls.org) · [email](mailto:geek@techygirls.org)
 ```
 
 ## Why?
